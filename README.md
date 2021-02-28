@@ -6,6 +6,21 @@ The project consists of 3 homeworks + an extra phase of model fine-tuning for th
 The project has been developed using [Google Colab](https://colab.research.google.com).
 
 
+## Developers
+
+[Motta Dennis](https://github.com/Desno365)
+
+[Ostrovan Eugenio](https://github.com/lleugen)
+
+
+## Grade
+
+The projects have been graded by the professor with a grade ranging from 0 to 7 points.
+We obtained a grade of 7/7.
+
+
+## Details
+
 ### Homework 1: Image Classification
 
 Image classification with Convolutional Neural Networks.
@@ -32,10 +47,3 @@ Codalab competition: [competitions.codalab.org//...](https://competitions.codala
 Visual Question Answering, it mixes feature extraction from images and text in order to solve a multi domain classification task.
 
 Kaggle competition: [www.kaggle.com/...](https://www.kaggle.com/t/cb49614dda9d4c7cac65be12451ba3cd)
-
-
-# Developers
-
-[Motta Dennis](https://github.com/Desno365)
-
-[Ostrovan Eugenio](https://github.com/lleugen)
