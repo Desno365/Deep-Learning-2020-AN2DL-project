@@ -15,7 +15,7 @@ The project has been developed using [Google Colab](https://colab.research.googl
 
 ## Grade
 
-The projects have been graded by the professor with a grade ranging from 0 to 7 points.
+The projects have been graded by the professors with a grade ranging from 0 to 7 points.
 We obtained a grade of 7/7.
 
 
@@ -32,14 +32,14 @@ Kaggle competition: [www.kaggle.com/...](https://www.kaggle.com/t/d475328a2ba74d
 
 Image Segmentation, it is possible to use any approach for segmentation.
 
-Codalab competition: [competitions.codalab.org//...](https://competitions.codalab.org/competitions/27176)
+Codalab competition: [competitions.codalab.org/...](https://competitions.codalab.org/competitions/27176)
 
 
 ### Homework 2 extra: Model fine-tuning
 
 New data is released. The goal is to fine-tune the model with this new data.
 
-Codalab competition: [competitions.codalab.org//...](https://competitions.codalab.org/competitions/27176)
+Codalab competition: [competitions.codalab.org/...](https://competitions.codalab.org/competitions/27176)
 
 
 ### Homework 3: Visual Question Answering
